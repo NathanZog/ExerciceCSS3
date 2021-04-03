@@ -1,0 +1,20 @@
+.fixed{
+    position: absolute;
+    position: fixed;
+    height: 150px;
+    width: 100%;
+    background-color: salmon;
+}
+.absolute{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+}
+.turquoise1{
+    position: absolute;
+    height: 500px;
+    width: 70%;
+    background-color: turquoise;
+    margin-top: 10%;
+    margin-left: 15%;
+}
